@@ -1,0 +1,12 @@
++ : plus : addition
+- : minus : subtraction
+/ : slash : division
+* : asterisk : multiplication
+% : percent : remainder (modulus)
+
+Comparisons:
+
+< : less-than
+> : greater-than
+<= : less-than-equal
+>= : greater-than-equal
